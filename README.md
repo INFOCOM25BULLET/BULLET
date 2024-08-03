@@ -4,9 +4,9 @@ This repository contains the source code for BULLET, a cutting-edge low-jitter N
 
 ## Key Features
 
-- **High-Quality**: Achieves up to 2.6X enhancement in bitrate for both WebRTC and commercial video conferencing applications.
-- **Scalability**: Requires only modifications to the RAN Intelligent Controller within Open-RAN frameworks.
-- **Low-Overhead**: Capable of serving 30+ real-time communication users simultaneously.
+- **Performance enhancement**: Achieves up to 2.6X enhancement in bitrate for both open-source WebRTC and commercial video conferencing applications.
+- **Ease of deployment**: Requires only modifications to the RAN intelligent controller within Open-RAN frameworks.
+- **Scalability**: Applicable for most of real-time communications applications that use standard RTP/RTCP header format.
 
 We are currently in the process of refining the code to enhance usability. Stay tuned for updates!
 
